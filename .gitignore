@@ -1,0 +1,9 @@
+.ReAct/
+ReAct/
+.env
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+data/*.db
+logs/*.jsonl
